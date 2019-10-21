@@ -1,0 +1,9 @@
+The customer must supply a local telephone number number for web orders.	
+A valid credit/debit card must be available for web order confirmation.	4
+Preparation of the web order is not started until after the confirmation order number received 
+Payment will still be processed if customer fails to pick up the order
+Total price of the order should be more than $20 for home delivery
+Web orders can be placed within opening hours only
+
+	
+
